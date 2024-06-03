@@ -1,0 +1,12 @@
+{
+  "name": "Whiskers",
+  "description": "Whiskers Color Scheme for Spicetify",
+  "version": "0.0.0",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Whiskers",
+      "url": "https://github.com/Whiskers-Color-Scheme"
+    }
+  ]
+}
